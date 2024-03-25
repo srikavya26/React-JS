@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,500;1,500&display=swap');
+
+body {
+    font-family: "Borel", cursive;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.menstrual-cycle-tracker {
+    text-align: center;
+    width: 400px;
+    padding: 20px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 8px;
+
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input-group input[type="date"],
+.input-group input[type="number"],
+.input-group textarea {
+    width: calc(70% - 10px);
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+}
+
+.input-group textarea {
+    height: 60px;
+}
