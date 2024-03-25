@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Chic layered chains",
+        "description": "Beautiful diamond necklace crafted in 18k gold",
+        "price": 1500,
+        "imageUrl": "/images/chain1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Drifter Necklace",
+        "description": "The full cut Heart Choker, Featuring 0.26 carats of gold ",
+        "price": 800,
+        "imageUrl": "/images/chain2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Rhinestone Decorated Clavicle Chain",
+        "description": "Stunning chain set in 12 carat gold with a drop diamond",
+        "price": 800,
+        "imageUrl": "/images/chain3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Diamond Emerald Green Tennix",
+        "description": "Expertly Crafted in dazzling cut diamonds in 14k gold",
+        "price": 800,
+        "imageUrl": "/images/chain4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Malia Necklace",
+        "description": "Emerald cut of 18k white gold.",
+        "price": 800,
+        "imageUrl": "/images/chain5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "All Butterflies",
+        "description": "Warm Chain with butterflies of 18k white gold",
+        "price": 800,
+        "imageUrl": "/images/chain6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Butterfly Pearl",
+        "description": "Stunning Pearls set with 18k gold Butterfly",
+        "price": 800,
+        "imageUrl": "/images/chain7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Lover Chain",
+        "description": "The perfect heart with 18k gold 3-layered set",
+        "price": 800,
+        "imageUrl": "/images/chain8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Limitless Mini",
+        "description": "16'' chain with 18k cut mini diamonds.",
+        "price": 800,
+        "imageUrl": "/images/chain9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Celestial Starburst Necklace",
+        "description": "White Zirconia Crystal Diameter 6mm Adjustable chain: 15-18in (38-45cm) When layered, chain length is: 15-20in (38-51cm)",
+        "price": 800,
+        "imageUrl": "/images/chain10.jpg"
+    }
+]
