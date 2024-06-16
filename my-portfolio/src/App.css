@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 20px;
+  gap: 40px;
+}
+
+.App form {
+  max-width: 400px;
+  margin-right: 20px;
+  margin-left: 40px;
+}
+
+.portfolio {
+  max-width: 400px;
+  background-color: #fff;
+  color: #333;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.portfolio h2 {
+  border-bottom: 2px solid #333;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.portfolio p {
+  margin: 10px 0;
+}
+
+.portfolio h3 {
+  margin-top: 20px;
+}
+
+.portfolio ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.portfolio ul li {
+  margin: 5px 0;
+}
+
+.portfolio a {
+  color: #3dd5df;
+  text-decoration: none;
+}
+
+.portfolio a:hover {
+  text-decoration: underline;
+}

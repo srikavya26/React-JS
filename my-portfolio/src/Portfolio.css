@@ -1,0 +1,39 @@
+.portfolio {
+
+    width: 300px;
+    margin-left: 0px;
+
+
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 20px 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.portfolio h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.portfolio p {
+    margin-bottom: 8px;
+}
+
+.portfolio ul {
+    margin-top: 0;
+    padding-left: 20px;
+}
+
+.portfolio ul li {
+    list-style-type: none;
+    margin-bottom: 5px;
+}
+
+.portfolio h3 {
+    margin-top: 15px;
+    margin-bottom: 8px;
+    color: #678f85;
+    text-decoration: underline;
+}
